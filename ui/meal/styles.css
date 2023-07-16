@@ -1,0 +1,110 @@
+body {
+    margin: 0;   
+}
+
+h1 {
+    margin-top: 0;
+}
+.hostelLayout {
+    position: relative;
+    height: 100px;
+    width: auto;
+    background-image: linear-gradient(to left, rgb(19, 15, 15), rgba(241, 233, 233, 0));
+    padding: 20px;
+    padding-left: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifx;
+
+}
+
+.wing button {
+    margin-right: 15px;
+    color: black;
+    
+}
+.b button {
+
+    margin-top: 10px;
+
+}
+.d button {
+    margin-top: 10px;
+}
+
+.one {
+    height: 72px;
+    width: 37.5%;
+    /* background: powderblue; */
+    margin-left: 12.5%; 
+}
+.a {
+    height: 36px;
+    width: 100%;
+    /* background: yellow;   */
+    margin-left: 29px;
+}
+.b {
+    height: 36px;
+    width: 100%;
+    /* background: red; */
+    margin-left: 30px;
+}
+.z {
+    height: 36px;
+    width: 100%;
+    /* background: indigo; */
+    margin-left: 29px;
+    /* margin-right: 12.5%; */
+
+}
+.two {
+    height: 72px;
+    width: 37.5%;
+    /* background: yellow; */
+    margin-right: 12.5%;  
+    margin-left: 20px;
+}
+.c {
+    height: 36px;
+    width: 100%;
+    /* background: red; */
+    margin-left: 29px;
+} 
+.d {
+    height: 36px;
+    width: 100%;
+    /* background: yellow; */
+    margin-left: 30px;
+}
+
+
+.three {
+    height: 170px;
+    width: 27%;
+    /* background: white; */
+}
+.e {
+    height: 170px;
+    width: 50%;
+    /* background: blue; */
+    margin-left: 30px;
+}
+.f {
+    height: 170px;
+    width: 50%;
+    /* background: white; */
+    margin-left: 30px;
+}
+.four {
+    position: relative;
+    right: 16px;
+    height: 170px;
+    width: 27%;
+    /* background: green; */
+    margin-left: 73%;
+}
+.wing {
+    /* color: white; */
+    display: flex;
+    margin-top: 5px;
+}
+
